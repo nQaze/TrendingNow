@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TrendingMovies
+
+  Created by Nabil Kazi on 27/02/19.
+  
+*/
+
+"string.test" = "This is a test string";
+
+// Error messages
+
+"error" = "Error";
+"error.webservice.no-connection" = "Could not connect to the internet";
+"error.webservice.not-found" = "Information is not currently available";
+"error.webservice.unauthorized" = "Invalid API key: You must be granted a valid key";
+"error.webservice.bad-request" = "Bad request";
+"error.webservice.method-not-allowed" = "Incorrect request";
+"error.webservice.no-data" = "The server did not returned any data";
+"error.webservice.validation-error" = "The given data was invalid";
