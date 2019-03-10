@@ -48,10 +48,10 @@ The project uses **XCUITest** framework to implement UI testing & ensure the flo
     ├── StringUtilities.swift
     └── ViewUtilities.swift
 ├── Storyboards
-	├── Main.storyboard
+    ├── Main.storyboard
     └── LaunchScreen.storyboard
 ├── Resources
-	├── Fonts
+    ├── Fonts
     ├── Assets.xcassets
     └── Localizable.strings
 └── SupportingFiles
